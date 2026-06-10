@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Srusti Kakaraddi<br><br>Aspiring Computer Science Engineer | Full Stack Developer <br>Passionate about creating impactful applications and solving real-world problems through technology.<br>Currently focused on Java Development, Web Development, AI Powered Solutions, and Cybersecurity.<br>Building projects, expanding my technical skills, and continuously learning new technologies.<br>Open to internships, collaborations, and opportunities to contribute and grow in the tech industry.
 
 
